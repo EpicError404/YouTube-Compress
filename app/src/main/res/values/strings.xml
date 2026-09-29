@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CompressTube</string>
+    <string name="app_title">YouTube Sıkıştır &amp; İndir</string>
+    <string name="hint_url">YouTube Linkini Buraya Yapıştırın</string>
+    <string name="select_quality">İndirme Çözünürlüğü Seçin:</string>
+    <string name="rb_720">720p (Önerilen)</string>
+    <string name="wifi_only">Sadece Wi-Fi Bağlantısında İndir</string>
+    <string name="btn_download_video">Video + Ses İndir</string>
+    <string name="btn_download_audio">Sadece Ses İndir (MP3)</string>
+    <string name="btn_open_file">Dosyayı Aç</string>
+    <string name="btn_open_folder">İndirilen Dosyalarım / Klasör</string>
+    <string name="btn_language">Dil Değiştir / Change Language</string>
+    <string name="toast_enter_url">Lütfen bir link girin</string>
+    <string name="download_queued">Video indirme sırasına eklendi</string>
+    <string name="download_starting">İndirme başlatılıyor...</string>
+    <string name="download_preparing">İndirme hazırlanıyor...</string>
+    <string name="download_completed">İndirme tamamlandı! (%100)</string>
+    <string name="download_location">Konum: Downloads/CompressTube</string>
+    <string name="download_success">İndirme başarıyla tamamlandı!</string>
+    <string name="download_failed">İndirme başarısız oldu!</string>
+    <string name="download_cancelled">İndirme iptal edildi.</string>
+    <string name="file_not_found">Dosya bulunamadı</string>
+</resources>
